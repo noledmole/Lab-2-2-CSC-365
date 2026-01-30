@@ -1,4 +1,4 @@
-INSERT INTO VOCALS ('SongId','Bandmate','Type')
+INSERT INTO VOCALS (SongId,Bandmate,Type)
 VALUES
 (2, 1, 'lead'),
 (2, 3, 'chorus'),
