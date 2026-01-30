@@ -1,4 +1,4 @@
-INSERT INTO SONGS ('SongId','Title')
+INSERT INTO SONGS (SongId,Title)
 VALUES
 (1, 'Overture'),
 (2, 'A Bar In Amsterdam'),
