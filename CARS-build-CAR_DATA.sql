@@ -32,7 +32,7 @@ INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate,
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(32,  10,  8,360,215,4615,14, 1970);
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(33,  10,  8,307,200,4376,15, 1970);
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(34,  11,  8,318,210,4382,13.5, 1970);
-INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(35,  9,  8,304,193,4732,18.5, 1970);
+
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(36,  27,  4,97,88,2130,14.5, 1971);
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(37,  28,  4,140,90,2264,15.5, 1971);
 INSERT INTO CAR_DATA(Id, MPG, Cylinders, Edispl, Horsepower, Weight, Accelerate, Year) VALUES(38,  25,  4,113,95,2228,14, 1971);
