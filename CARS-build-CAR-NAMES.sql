@@ -34,7 +34,6 @@ VALUES
 (32, 'ford', 'ford f250'),
 (33, 'chevrolet', 'chevy c20'),
 (34, 'dodge', 'dodge d200'),
-(35, 'hi', 'hi 1200d'),
 (36, 'datsun', 'datsun pl510'),
 (37, 'chevrolet', 'chevrolet vega 2300'),
 (38, 'toyota', 'toyota corona'),
