@@ -1,4 +1,4 @@
-INSERT INTO BAND ('Id','Firstname','Lastname')
+INSERT INTO BAND (Id,Firstname,Lastname)
 VALUES
 (1, 'Solveig', 'Heilo'),
 (2, 'Marianne', 'Sveen'),
