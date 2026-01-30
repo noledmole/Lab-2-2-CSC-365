@@ -13,7 +13,6 @@ VALUES
 (11, 6, 'dodge'),
 (12, 9, 'fiat'),
 (13, 5, 'ford'),
-(14, 10, 'hi'),
 (15, 11, 'honda'),
 (16, 12, 'mazda'),
 (17, 13, 'mercedes'),
