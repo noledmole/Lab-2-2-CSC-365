@@ -1,4 +1,4 @@
-INSERT INTO TRACKLISTS ('AlbumId','Position','SongId')
+INSERT INTO TRACKLISTS (AlbumId,Position,SongId)
 VALUES
 (1, 1, 1),
 (1, 2, 2),
