@@ -1,6 +1,6 @@
 INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(1, 'United Airlines', 'UAL', 'USA');
 INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(2, 'US Airways', 'USAir', 'USA');
-INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(3, 'Delta Airlines', 'Delta', 'USA')
+INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(3, 'Delta Airlines', 'Delta', 'USA');
 INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(4, 'Southwest Airlines', 'Southwest', 'USA');
 INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(5, 'American Airlines', 'American', 'USA');
 INSERT INTO AIRLINES(Id, Airline, Abbreviation, Country) VALUES(6, 'Northwest Airlines', 'Northwest', 'USA');
