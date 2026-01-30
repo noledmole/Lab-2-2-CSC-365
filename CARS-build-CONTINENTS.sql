@@ -4,4 +4,4 @@ VALUES
 (2, 'europe'),
 (3, 'asia'),
 (4, 'africa'),
-(5, 'australia');;
+(5, 'australia');
