@@ -1,4 +1,4 @@
-INSERT INTO MODEL-LIST (ModelId,Maker,Model)
+INSERT INTO MODEL_LIST (ModelId,Maker,Model)
 VALUES
 (1, 1, 'amc'),
 (2, 2, 'audi'),
