@@ -1,4 +1,4 @@
-INSERT INTO PERFORMANCE ('SongId','Bandmate','StagePosition')
+INSERT INTO PERFORMANCE (SongId,Bandmate,StagePosition)
 VALUES
 (1, 1, 'back'),
 (1, 2, 'left'),
