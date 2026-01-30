@@ -7,7 +7,6 @@ INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(6,  'chrysler',  'Ch
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(7,  'citroen',  'Citroen',3);
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(8,  'nissan',  'Nissan Motors',4);
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(9,  'fiat',  'Fiat',5);
-INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(10,  'hi',  'hi',null);
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(11,  'honda',  'Honda',4);
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(12,  'mazda',  'Mazda',4);
 INSERT INTO CAR_MAKERS(Id, Maker, FullName, Country) VALUES(13,  'daimler benz',  'Daimler Benz',2);
