@@ -1,4 +1,4 @@
-INSERT INTO CAR_NAMES (Id,Model,Make)
+INSERT INTO CAR_NAMES (MakeId,Model,MakeDescription)
 VALUES
 (1, 'chevrolet', 'chevrolet chevelle malibu'),
 (2, 'buick', 'buick skylark 320'),
