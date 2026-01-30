@@ -1,4 +1,4 @@
-INSERT INTO INSTRUMENTS ('SongId','BandmateId','Instrument')
+INSERT INTO INSTRUMENTS (SongId,BandmateId,Instrument)
 VALUES
 (1, 1, 'trumpet'),
 (1, 2, 'keyboard'),
